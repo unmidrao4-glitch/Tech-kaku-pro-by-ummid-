@@ -1,0 +1,8 @@
+{
+  "name": "Kaku Technologies AI Showcase",
+  "description": "An interactive web application showcasing the AI-powered features of Kaku Technologies' XR products, built with the Google Gemini API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
